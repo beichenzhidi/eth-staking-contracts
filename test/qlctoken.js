@@ -126,4 +126,3 @@ contract('QLCToken', ([alice, bob, carol, james])  => {
       assert.equal(await this.instance.balanceOf(alice), tfAmount, "amount is incorrect");
     }); 
 });
-

@@ -72,7 +72,7 @@ Parameters:
 
 
 Emitted Mint Info
-d
+
 Parameters:
 - `user`: index, user address
 - `nep5Hash`: neo transaction hash
@@ -83,7 +83,7 @@ Parameters:
 
 
 Emitted Burn Info
-d
+
 Parameters:
 - `user`: index, user address
 - `nep5Hash`: nep5 token receiver address
