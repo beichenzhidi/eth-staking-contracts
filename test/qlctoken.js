@@ -1,4 +1,4 @@
-const QLCToken = artifacts.require("QLCToken");
+const QLCToken = artifacts.require("QLCTokenV2");
 const {sha256, solidityPack, hexlify} = require("ethers/utils");
 const truffleAssert = require('truffle-assertions');
 const chai = require('chai');
